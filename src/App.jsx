@@ -1,6 +1,7 @@
 import Navbar from "./component/Navbar"
 import Banner from "./component/Banner"
 import CardRow from "./component/CardRow";
+import NewArrival from "./component/NewArrival";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Navbar />
       <Banner />
       <CardRow/>
+      <NewArrival/>
       
    
     </div>

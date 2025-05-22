@@ -3,6 +3,8 @@ import Banner from "./component/Banner"
 import CardRow from "./component/CardRow";
 import NewArrival from "./component/NewArrival";
 import Blog from "./component/Blog";
+import Footer from "./component/Footer";
+
 
 function App() {
   return (
@@ -12,6 +14,7 @@ function App() {
       <CardRow/>
       <NewArrival/>
       <Blog/>
+      <Footer/>
    
     </div>
   );
